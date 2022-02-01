@@ -27,4 +27,3 @@ for f in fib():
 
 '''yield generates iterators hence no use of iter() method'''
         
-    
